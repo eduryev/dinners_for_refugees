@@ -1,0 +1,101 @@
+zip_code,max_num_ppl,is_kids_friendly,languages,has_vaccination,asks_vaccination,provides_transportation,has_pets,dietary_accommodations,days_since_response
+13587,9,True,['german'],False,True,True,True,['hindu'],7
+10115,5,False,['german'],True,True,True,False,['halal'],3
+14089,8,True,['russian' 'ukrainian'],True,True,True,False,['vegetarian'],20
+10963,8,True,['english'],True,False,False,False,['kosher' 'hindu'],11
+10711,1,False,['russian'],False,False,True,True,['vegan' 'halal'],6
+10785,6,False,['english'],False,True,False,True,['vegan' 'vegetarian'],23
+12629,6,False,['english' 'ukrainian' 'russian'],False,True,True,False,['vegan' 'halal'],11
+10787,6,False,['german'],True,False,True,True,['halal'],16
+12629,7,False,['ukrainian'],True,False,True,True,['vegan'],2
+12277,8,False,['russian' 'ukrainian'],False,False,False,True,['vegan'],5
+13591,2,True,['russian'],True,False,False,False,['vegetarian'],2
+13435,4,True,['german'],True,True,True,False,['vegetarian' 'hindu'],5
+13089,9,True,['german'],False,False,True,False,['vegetarian'],0
+10713,7,True,['english' 'german'],False,False,False,True,['halal' 'kosher'],5
+10409,6,True,['english'],False,False,False,True,['halal' 'vegetarian'],11
+12059,7,False,['german'],True,False,False,False,['halal'],4
+10779,8,True,['german' 'russian'],False,False,False,True,['vegan' 'halal'],55
+13187,3,False,['english'],True,True,True,True,['hindu'],5
+12279,1,True,['german' 'russian'],False,False,True,False,['vegan' 'hindu'],14
+10785,6,True,['german' 'russian'],False,False,False,True,['vegetarian'],7
+10317,6,True,['ukrainian' 'english'],False,False,True,False,['kosher'],36
+10717,2,True,['russian'],False,False,True,False,['vegetarian' 'vegan'],8
+12681,5,False,['ukrainian'],True,False,False,False,['vegetarian'],0
+10789,5,True,['ukrainian' 'russian' 'english'],True,True,False,True,['halal' 'vegetarian'],15
+12277,8,False,['english' 'russian' 'german'],False,False,True,False,['halal' 'vegetarian'],8
+10967,8,True,['russian' 'ukrainian'],True,True,False,False,['hindu'],1
+13467,3,True,['german' 'ukrainian'],True,False,False,False,['halal'],7
+13359,1,False,['russian' 'ukrainian' 'english'],False,False,True,False,['kosher'],3
+10318,5,True,['english' 'ukrainian'],False,True,True,True,['halal'],8
+10717,4,False,['russian' 'ukrainian'],False,False,False,True,['halal'],2
+13593,2,True,['german' 'russian'],False,False,True,False,['halal' 'hindu'],13
+12279,8,False,['russian' 'german' 'ukrainian'],True,True,False,False,['vegetarian' 'hindu'],5
+13159,5,True,['english' 'ukrainian'],True,False,True,True,['hindu' 'halal'],3
+13583,5,False,['russian' 'ukrainian'],False,True,False,True,['hindu' 'vegan'],5
+12439,4,False,['english' 'ukrainian' 'russian'],True,False,True,False,['vegan' 'vegetarian'],12
+14129,3,False,['russian' 'ukrainian' 'german'],False,False,True,False,['hindu'],3
+14165,7,True,['ukrainian'],False,False,True,True,['kosher' 'hindu'],5
+13439,4,True,['russian' 'english' 'ukrainian'],False,True,True,True,['hindu'],2
+10789,5,False,['russian'],True,True,False,True,['vegetarian'],25
+13156,6,True,['ukrainian'],False,False,False,False,['kosher' 'halal'],27
+13158,1,False,['german' 'english'],False,True,True,False,['halal'],8
+12557,8,True,['ukrainian' 'german' 'russian'],False,False,False,True,['halal'],3
+12049,1,False,['russian'],False,True,False,False,['halal' 'kosher'],11
+12357,1,True,['russian' 'ukrainian'],False,True,True,True,['halal' 'vegan'],2
+13435,5,True,['russian' 'ukrainian'],False,False,False,False,['hindu'],33
+13509,6,False,['german' 'ukrainian' 'russian'],True,True,False,True,['vegetarian'],5
+10115,8,False,['english' 'ukrainian'],True,False,False,True,['vegetarian' 'hindu'],13
+12055,5,False,['german' 'russian'],False,False,False,True,['hindu' 'kosher'],1
+10318,7,False,['german'],True,False,True,True,['hindu'],19
+12351,6,False,['german' 'russian'],True,False,True,False,['kosher' 'halal'],46
+14059,8,True,['german' 'english'],False,True,True,True,['halal' 'hindu'],0
+10625,4,True,['german'],False,True,False,False,['kosher'],1
+14131,6,True,['russian' 'english' 'ukrainian'],False,False,False,False,['vegetarian' 'halal'],5
+10783,3,True,['ukrainian' 'german'],False,False,True,True,['kosher'],2
+14055,6,True,['russian' 'english'],True,False,True,True,['halal' 'kosher'],1
+12487,3,False,['english'],False,True,False,False,['hindu' 'kosher'],1
+13189,7,False,['russian' 'english' 'ukrainian'],True,False,False,True,['halal' 'vegetarian'],15
+10967,4,True,['russian' 'english' 'german'],False,False,False,False,['halal' 'hindu'],4
+14055,2,False,['russian' 'english' 'german'],False,True,False,False,['vegetarian' 'kosher'],8
+12167,1,True,['ukrainian' 'german'],True,False,True,False,['hindu'],0
+12353,4,True,['german' 'russian' 'ukrainian'],False,True,True,True,['vegetarian' 'kosher'],23
+10783,4,True,['ukrainian' 'russian' 'german'],True,False,False,True,['kosher' 'vegetarian'],2
+13051,3,False,['german' 'english'],False,False,True,False,['vegan' 'halal'],0
+13407,6,False,['russian' 'german'],True,True,False,False,['hindu' 'kosher'],22
+13403,3,True,['german' 'ukrainian'],True,False,True,False,['kosher'],4
+13349,8,False,['russian' 'english'],True,False,False,True,['hindu'],0
+14059,1,False,['russian' 'english'],True,True,True,False,['kosher'],0
+13129,3,False,['russian' 'german' 'ukrainian'],True,True,False,True,['halal'],10
+10789,1,True,['ukrainian' 'german'],False,False,True,True,['hindu'],4
+12685,3,False,['ukrainian' 'russian' 'german'],False,False,True,True,['hindu' 'halal'],5
+13357,4,True,['russian'],True,False,False,False,['hindu' 'vegetarian'],1
+14199,2,True,['german' 'english'],False,False,False,False,['vegan' 'kosher'],6
+12105,7,False,['english'],False,False,True,False,['vegan' 'vegetarian'],5
+13467,2,False,['german'],True,False,False,False,['vegan'],10
+13437,2,True,['english'],True,True,False,True,['vegan' 'kosher'],26
+12349,8,False,['german' 'ukrainian' 'english'],False,True,False,False,['kosher'],34
+10557,4,False,['ukrainian' 'german' 'english'],True,False,True,False,['halal'],0
+12357,9,True,['german' 'ukrainian'],True,False,False,False,['vegetarian' 'kosher'],30
+13088,6,False,['english' 'german' 'russian'],False,False,False,False,['halal' 'vegetarian'],3
+12589,8,False,['german'],True,True,False,True,['vegan'],2
+10967,1,True,['english'],True,True,True,False,['kosher'],3
+13597,8,False,['russian' 'english' 'ukrainian'],True,True,True,True,['vegan' 'kosher'],3
+12279,2,True,['russian'],False,True,True,True,['hindu' 'vegan'],11
+13407,6,False,['russian' 'german' 'ukrainian'],True,True,True,False,['vegetarian' 'kosher'],8
+12167,6,False,['ukrainian'],True,True,True,False,['kosher'],3
+10249,1,True,['russian' 'german' 'ukrainian'],True,True,False,False,['halal' 'kosher'],8
+10553,7,False,['english' 'russian' 'ukrainian'],False,True,False,False,['halal'],14
+10119,8,True,['english'],True,True,False,False,['hindu'],1
+10785,2,True,['ukrainian' 'russian'],False,True,True,True,['kosher'],26
+14199,7,True,['russian'],True,True,False,False,['vegetarian'],5
+13053,7,False,['ukrainian'],False,True,False,True,['vegetarian' 'halal'],1
+12629,3,True,['russian'],False,False,True,False,['hindu'],5
+10781,4,True,['german' 'ukrainian' 'english'],True,True,False,False,['kosher'],5
+14165,6,False,['russian' 'ukrainian' 'english'],False,True,False,False,['vegetarian'],5
+12559,2,False,['russian' 'english'],False,False,True,False,['hindu'],9
+10245,3,True,['russian' 'german'],False,True,True,False,['hindu'],2
+10317,1,False,['ukrainian'],True,False,True,True,['hindu'],2
+12169,1,False,['german' 'ukrainian'],True,True,False,False,['vegetarian' 'kosher'],0
+12689,7,False,['german' 'ukrainian' 'english'],False,True,False,False,['hindu' 'kosher'],15
+13581,7,True,['english'],True,False,True,False,['vegan' 'vegetarian'],9
